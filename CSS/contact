@@ -1,0 +1,103 @@
+/* menubar start */
+.listmenubar {
+  background-color: rgb(62, 126, 191);
+  text-align: center;
+  z-index: 500:
+}
+
+.listmenubar ul {
+  list-style-type: none;
+  margin: 0px;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: bold;
+  margin-left: auto;
+  margin-right: auto;
+  z-index: 55;
+  
+}
+
+.listmenubar li {
+  float: left;
+}
+
+.listmenubar li a {
+  display: block;
+  color: #FFF;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.menubar {
+  position: relative;
+}
+
+a.menubar:hover {
+  background: rgb(62, 85, 255);
+  background-position: center;
+  color:;
+}
+
+
+/* menubar end */
+
+h1 {
+  position: relative;
+  margin: auto;
+  top: 50px;
+  text-align: center;
+  font-size: 50px;
+  font-family: "Arial Black", Gadget, sans-serif;
+}
+
+h2 {
+  position: relative;
+  margin: 50px;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+p {
+  font-family: sans-serif;	
+}
+
+.email {
+  top: 81px;
+  right: 5em;
+  text-align: center;
+  left: 8em;
+}
+
+.phone {
+  left: 5em;
+  text-align: left;
+}
+
+.mailinfo {
+  position: relative;
+  text-align: center;
+  left: 200px;
+  
+}
+
+.phoneinfo {
+  position: relative;
+  text-align: center;
+  right: 225px;
+  bottom: 125px;
+}
+
+.contacts {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  top: 100px;
+}
+
+body {
+  background-color: #FFF;
+}
+
+
+
